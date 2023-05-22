@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/erwinfrancisco/pagina_divinas/static/css/main.5b10e7ec.css",
+    "main.js": "/erwinfrancisco/pagina_divinas/static/js/main.d31e5afa.js",
+    "static/js/787.4d041355.chunk.js": "/erwinfrancisco/pagina_divinas/static/js/787.4d041355.chunk.js",
+    "static/media/promo2.png": "/erwinfrancisco/pagina_divinas/static/media/promo2.bd57a3b0f4b7ba722584.png",
+    "static/media/promo3.png": "/erwinfrancisco/pagina_divinas/static/media/promo3.c7f6c3fa5e66bac23ff7.png",
+    "static/media/promo1.png": "/erwinfrancisco/pagina_divinas/static/media/promo1.3b76c41debe4287083a2.png",
+    "static/media/background.jpg": "/erwinfrancisco/pagina_divinas/static/media/background.8413c4f896a79498b7e6.jpg",
+    "static/media/ubicacion.png": "/erwinfrancisco/pagina_divinas/static/media/ubicacion.ca79b5ef7bec2f7cf75d.png",
+    "static/media/instagram.png": "/erwinfrancisco/pagina_divinas/static/media/instagram.203ca2cdb1c2a9caa461.png",
+    "static/media/DIVINAS-CHIC-LOGO.png": "/erwinfrancisco/pagina_divinas/static/media/DIVINAS-CHIC-LOGO.d2446f35f6aef564b802.png",
+    "static/media/whatsapp.png": "/erwinfrancisco/pagina_divinas/static/media/whatsapp.c2d441e6945db7e7943b.png",
+    "index.html": "/erwinfrancisco/pagina_divinas/index.html",
+    "main.5b10e7ec.css.map": "/erwinfrancisco/pagina_divinas/static/css/main.5b10e7ec.css.map",
+    "main.d31e5afa.js.map": "/erwinfrancisco/pagina_divinas/static/js/main.d31e5afa.js.map",
+    "787.4d041355.chunk.js.map": "/erwinfrancisco/pagina_divinas/static/js/787.4d041355.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b10e7ec.css",
+    "static/js/main.d31e5afa.js"
+  ]
+}
