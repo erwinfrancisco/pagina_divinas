@@ -1,0 +1,24 @@
+.menu-item{
+    padding: 10px;
+}
+
+.menu-item a{
+    text-decoration: none;
+    color:white;
+    font-weight: 600;
+    font-size: 18px;
+    transition: all .1s ease-in;
+    
+}
+
+.menu-item a:hover{
+    color:#D512BF;
+
+}
+
+li{
+    background-color: #D512BF;
+    border-radius: 8px;
+    width: 160px;
+    margin: 10px;
+}

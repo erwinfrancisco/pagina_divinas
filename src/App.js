@@ -1,24 +1,41 @@
-import logo from './logo.svg';
 import './App.css';
+import Menu from "./components/menu";
+import Home from "./components/home";
+import Promociones from "./components/promociones";
+import Contacto from "./components/contacto";
+import Ubicacion from "./components/ubicacion";
+import Pie from "./components/pie-pagina";
+
+
+
 
 function App() {
+
+  const currentURL = window.location.pathname
+  function renderContent(){
+    {switch(currentURL) {
+      case "/":
+        return <Home/>
+        
+      case "/promociones":
+        return <Promociones/>
+      case "/contacto":
+        return <Contacto/>
+      case "/ubicacion":
+        return <Ubicacion/>
+      default:
+        break;
+    }
+  }
+  }
   return (
+
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Menu/>
+      {renderContent()}
+      <Pie/>
     </div>
+    
   );
 }
 

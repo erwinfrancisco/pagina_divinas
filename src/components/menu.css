@@ -1,0 +1,12 @@
+.menu {
+    
+    list-style: none;
+    display: inline-flex;
+    padding: 0;
+    margin-left: 700px;
+
+}
+
+ul{
+    border-color: red;
+}
